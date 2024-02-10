@@ -1,0 +1,17 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0805,1,10u,
+C2,0805,1,22u,
+D1,D_SOD-123,1,1N4148,
+D2,D_SOD-123,1,D_Schottky,
+"H1, H2, H3, H4",MountingHole_2.2mm_M2,4,MountingHole,
+"J1, J2",TerminalBlock_bornier-4_P5.08mm,2,Screw_Terminal_01x04,
+J3,TerminalBlock_bornier-2_P5.08mm,1,Screw_Terminal_01x02,
+"J4, J5",din-504-M10,2,DIN-5_180degree,C2939344
+"Q1, Q2, Q3, Q4, Q5, Q6",SOT-23,6,IRLZ44N,
+"R1, R4, R5",0805,3,220R,
+"R10, R11, R6, R7, R8, R9",0805,6,1k,
+R2,0805,1,470R,
+R3,0805,1,10kR,
+U1,RPi_Pico_SMD_TH,1,Pico,
+U2,DIP-8_W7.62mm,1,6N138,
+U3,SOT-223-3_TabPin2,1,AMS1117-5.0,
